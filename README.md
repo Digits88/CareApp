@@ -23,6 +23,33 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `ng serve`.
 
+## Contributing
+1) First, fork this repository to your account.
+2) Clone this repository (this would make rebasing easier).
+   ```
+   git clone https://github.com/yasirunilan/CareApp.git
+   ```
+3) go to the cloned project and install dependencies.
+    ```
+    cd CareApp
+    npm install
+    
+    ```
+4) Add a remote to your forked repository. This remote will be needed to push your changes to your repo.
+  ```
+  git remote add myfork https://github.com/<username>/CareApp.git
+  ```
+5) Find an issue in this repository that you would like to and can fix. Start working on an issue.
+6) Create a new branch and switch to it. (make sure you are on master before doing this).
+  ```
+  git checkout -b mybranch
+  ```
+7) After you do the changes commit them to your fork.
+  ```
+  git push -u myfork mybranch
+  ```
+8) Then create a Pull Request from that branch using GitHub.
+     
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
