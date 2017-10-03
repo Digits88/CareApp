@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
 
+This project aims at developing a Web application to do Donations to poor or needy people.
+Needy people can get registered through this application and donors also can register through this application.After  that donors can make donations by checking a list of needy people. This avoids going to banks to make donations and donation handling will be done through this platform.
+
+As this is an ongoing project we need support from developers to develop this application.
+Any sort of a contribution is appreciated. 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
