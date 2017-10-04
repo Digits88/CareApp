@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yasirunilan/CareApp.svg?branch=master)](https://travis-ci.org/yasirunilan/CareApp)
+
 # CareApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
